@@ -5,7 +5,7 @@ Javascript exercises to learn the syntax doing various projects.
 I'm planning to become a software engineer!
 
 ## What can I find? 🤯
-From very beginning exercises
+From very beginning exercises to advanced projects.
 - [x] Tweet string slicing 🎨
   
 - [x] Calculators 🤓
