@@ -14,4 +14,4 @@ From very beginning exercises to advanced projects.
 
 - [x] Exercises to understand the syntax
 
-- [] Exercises using Nodejs and React (Work in progress)
+- [x] Exercises using Nodejs and React (Work in progress)
