@@ -11,7 +11,6 @@ function last_sign_top_right() {
     move();
     move();
     move();  
-    something else 
  }
 
  // Make karel to put the veeper in a diagonal way
